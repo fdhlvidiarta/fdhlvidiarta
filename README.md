@@ -6,7 +6,7 @@ Saya seorang Mahasiswa dengan minat dalam bidang-bidang tertentu. Saya senang be
 
 - 🌱 Saat ini sedang belajar: [Bahasa Pemrograman]
 - 💼 Pekerjaan: [Mahasiswa]
-- 📫 Cara menghubungi saya: [alamat email](fadhilall11t@gmail.com) <br> [alamat IG](tagram.com/fdhl_v/)
+- 📫 Cara menghubungi saya: [alamat email](fadhilall11t@gmail.com) [alamat IG](https://www.instagram.com/fdhl_v/)
 
 ## Bahasa dan Teknologi
 
