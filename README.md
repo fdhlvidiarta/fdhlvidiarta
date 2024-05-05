@@ -22,8 +22,4 @@ Berikut adalah beberapa projek yang saya kerjakan atau yang saya kontribusikan:
 
 Jika Anda tertarik untuk berkolaborasi atau berbicara lebih lanjut tentang projek-projek ini, jangan ragu untuk menghubungi saya.
 
-## Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
-
 Terima kasih sudah mengunjungi profil saya! Jika Anda tertarik untuk berkolaborasi atau berbicara lebih lanjut tentang apa pun, jangan ragu untuk mengirim pesan kepada saya.
