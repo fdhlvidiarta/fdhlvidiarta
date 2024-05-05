@@ -2,25 +2,23 @@
 # Selamat Datang di Profil Saya! 👋
 
 ## Tentang Saya
-Halo, saya [Nama Anda]. Saya seorang [posisi pekerjaan atau bidang minat]. Saya senang belajar hal-hal baru dan berkontribusi dalam proyek-proyek open source.
+Halo, saya Fadhil Vidiarta. Saya seorang Mahasiswa. Saya senang belajar hal-hal baru dan berkontribusi dalam proyek-proyek open source.
 
 ## Proyek Utama
 Berikut ini beberapa proyek yang sedang saya kerjakan atau yang saya banggakan:
-1. **[Nama Proyek 1](link_proyek_1)** - Deskripsi singkat tentang proyek 1.
-2. **[Nama Proyek 2](link_proyek_2)** - Deskripsi singkat tentang proyek 2.
-3. **[Nama Proyek 3](link_proyek_3)** - Deskripsi singkat tentang proyek 3.
+1. **Coming Soon** - --- 1.
+2. **Coming Soon** - --- 2.
+3. **Coming Soon** - --- 3.
 
 ## Bahasa Pemrograman dan Teknologi
 Saya memiliki pengalaman dalam menggunakan beberapa bahasa pemrograman dan teknologi, termasuk:
 - Python
 - JavaScript
 - HTML/CSS
-- React
-- Node.js
 
 ## Cara Menghubungi Saya
 Anda dapat menghubungi saya melalui:
-- Email: [email@example.com](mailto:email@example.com)
+- Email: fadhilall11t@gmail.com
 - LinkedIn: [Profil LinkedIn](link_profil_linkedin)
 
 ## Statistik GitHub
