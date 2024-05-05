@@ -1,28 +1,29 @@
+# Halo, Saya Fadhil Vidiarta! 👋
 
-# Selamat Datang di Profil Saya! 👋
+Saya seorang Mahasiswa dengan minat dalam bidang-bidang tertentu. Saya senang berkolaborasi, belajar hal-hal baru, dan berkontribusi dalam projek-projek open source.
 
 ## Tentang Saya
-Halo, saya Fadhil Vidiarta. Saya seorang Mahasiswa. Saya senang belajar hal-hal baru dan berkontribusi dalam proyek-proyek open source.
 
-## Proyek Utama
-Berikut ini beberapa proyek yang sedang saya kerjakan atau yang saya banggakan:
-1. **Coming Soon** - --- 1.
-2. **Coming Soon** - --- 2.
-3. **Coming Soon** - --- 3.
+- 🌱 Saat ini sedang belajar: [Bahasa Pemrograman]
+- 💼 Pekerjaan: [Mahasiswa]
+- 📫 Cara menghubungi saya: [alamat email](fadhilall11t@gmail.com) <br> [alamat IG](tagram.com/fdhl_v/)
 
-## Bahasa Pemrograman dan Teknologi
-Saya memiliki pengalaman dalam menggunakan beberapa bahasa pemrograman dan teknologi, termasuk:
-- Python
-- JavaScript
-- HTML/CSS
+## Bahasa dan Teknologi
 
-## Cara Menghubungi Saya
-Anda dapat menghubungi saya melalui:
-- Email: [fadhilall11t@gmail.com](fadhilall11t@gmail.com)
-- Instagram: [IG](https://www.instagram.com/fdhl_v/)
-- LinkedIn: [Profil LinkedIn](link_profil_linkedin)
+- Bahasa Pemrograman: [HTML/CSS, Java Script, PHP]
+- Teknologi: [Laravel, bootstrap]
+
+## Projek-Projek
+
+Berikut adalah beberapa projek yang saya kerjakan atau yang saya kontribusikan:
+
+- [Coming Soon](link_projek_1): Deskripsi singkat tentang projek dan peran Anda di dalamnya.
+- [Coming Soon](link_projek_2): Deskripsi singkat tentang projek dan peran Anda di dalamnya.
+
+Jika Anda tertarik untuk berkolaborasi atau berbicara lebih lanjut tentang projek-projek ini, jangan ragu untuk menghubungi saya.
 
 ## Statistik GitHub
-[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)](https://github.com/fdhlvidiarta)
 
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk mengirim pesan jika Anda memiliki pertanyaan atau ingin berkolaborasi dalam proyek tertentu.
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+
+Terima kasih sudah mengunjungi profil saya! Jika Anda tertarik untuk berkolaborasi atau berbicara lebih lanjut tentang apa pun, jangan ragu untuk mengirim pesan kepada saya.
