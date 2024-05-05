@@ -18,10 +18,11 @@ Saya memiliki pengalaman dalam menggunakan beberapa bahasa pemrograman dan tekno
 
 ## Cara Menghubungi Saya
 Anda dapat menghubungi saya melalui:
-- Email: fadhilall11t@gmail.com
+- Email: [fadhilall11t@gmail.com](fadhilall11t@gmail.com)
+- Instagram: [IG](https://www.instagram.com/fdhl_v/)
 - LinkedIn: [Profil LinkedIn](link_profil_linkedin)
 
 ## Statistik GitHub
-[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)](https://github.com/username)
+[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)](https://github.com/fdhlvidiarta)
 
 Terima kasih telah mengunjungi profil saya! Jangan ragu untuk mengirim pesan jika Anda memiliki pertanyaan atau ingin berkolaborasi dalam proyek tertentu.
