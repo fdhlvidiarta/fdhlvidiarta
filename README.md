@@ -17,7 +17,7 @@ Saya seorang Mahasiswa dengan minat dalam bidang-bidang tertentu. Saya senang be
 
 Berikut adalah beberapa projek yang saya kerjakan atau yang saya kontribusikan:
 
-- [Final-Project](https://final-project-edspertid-fadhil-vs-projects.vercel.app/): Deskripsi singkat tentang projek dan peran Anda di dalamnya.
+- [Final-Project-Sederhana](https://final-project-edspertid-fadhil-vs-projects.vercel.app/): Deskripsi singkat tentang projek dan peran Anda di dalamnya.
 - [Coming Soon](link_projek_2): Deskripsi singkat tentang projek dan peran Anda di dalamnya.
 
 Jika Anda tertarik untuk berkolaborasi atau berbicara lebih lanjut tentang projek-projek ini, jangan ragu untuk menghubungi saya.
