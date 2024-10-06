@@ -1,6 +1,6 @@
 <h1>Welcome to my Github profile</h1>
 
-<h2>Hello there 👋, I'm Fdhl V.</h2>
+<h2>Hello there 👋, I'm fdhl_v.</h2>
 <h3>A passionate and self-taught frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Laravel, PHP, and Python**
@@ -13,9 +13,9 @@
 <p align="left">
   <h3>My Github Stats :</h3>
   <span>
-    <img src="https://github-meko-stats.vercel.app/api?username=FadhilVidiarta&show_icons=true&theme=transparent&include_all_commits=true" alt="stats" /> 
+    <img src="https://github-meko-stats.vercel.app/api?username=fdhlvidiarta&show_icons=true&theme=transparent&include_all_commits=true" alt="stats" /> 
     &nbsp;&nbsp;
-    <img src="https://github-meko-stats.vercel.app/api/top-langs?username=FadhilVidiarta&show_icons=true&theme=transparent&locale=en&layout=compact" alt="FadhilVidiarta" /> 
+    <img src="https://github-meko-stats.vercel.app/api/top-langs?username=fdhlvidiarta&show_icons=true&theme=transparent&locale=en&layout=compact" alt="fdhlvidiarta" /> 
   </span>
 </p>
 
