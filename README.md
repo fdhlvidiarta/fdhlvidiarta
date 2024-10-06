@@ -3,12 +3,12 @@
 <h2>Hello there 👋, I'm Fdhl V.</h2>
 <h3>A passionate and self-taught frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel, PHP, and Kotlin**
+- 🌱 I’m currently learning **Laravel, PHP, and Python**
 - 💬 Ask me about something (i'll reply if i'm not busy)
-- 🎵 I like listening music
+- 🎵 I like listening music: <a href="https://open.spotify.com/playlist/5A5FKNkc8NSDgGQfZtn59V?si=2a971236e7974598">Playlists Spotify</a> 
 - 😄 I like about tech topic and still newbie about programming
 - ⚡ Fun fact: I ❤️ 😺 
-- 📫 How to reach me: <a href="fdhlvidiarta@gmail.com">fdhlvidiarta@gmail.com</a> <br><br>
+- 📫 How to reach me: <a href="fdhlvidiarta@gmail.com">FadhilV@gmail.com</a> <br><br>
 
 <p align="left">
   <h3>My Github Stats :</h3>
