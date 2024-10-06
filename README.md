@@ -13,9 +13,9 @@
 <p align="left">
   <h3>My Github Stats :</h3>
   <span>
-    <img src="https://github-meko-stats.vercel.app/api?username=fdhlvidiarta&show_icons=true&theme=transparent&include_all_commits=true" alt="stats" /> 
+    <img src="https://github-meko-stats.vercel.app/api?username=FadhilVidiarta&show_icons=true&theme=transparent&include_all_commits=true" alt="stats" /> 
     &nbsp;&nbsp;
-    <img src="https://github-meko-stats.vercel.app/api/top-langs?username=fdhlvidiarta&show_icons=true&theme=transparent&locale=en&layout=compact" alt="fdhlvidiarta" /> 
+    <img src="https://github-meko-stats.vercel.app/api/top-langs?username=FadhilVidiarta&show_icons=true&theme=transparent&locale=en&layout=compact" alt="FadhilVidiarta" /> 
   </span>
 </p>
 
