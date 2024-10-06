@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Welcome to my Github profile</h1>
 
-<!--
-**fdhlvidiarta/fdhlvidiarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hello there 👋, I'm Fdhl V.</h2>
+<h3>A passionate and self-taught frontend developer from Indonesia</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Laravel, PHP, and Kotlin**
+- 💬 Ask me about something (i'll reply if i'm not busy)
+- 🎵 I like listening music
+- 😄 I like about tech topic and still newbie about programming
+- ⚡ Fun fact: I ❤️ 😺 
+- 📫 How to reach me: <a href="fdhlvidiarta@gmail.com">fdhlvidiarta@gmail.com</a> <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <h3>My Github Stats :</h3>
+  <span>
+    <img src="https://github-meko-stats.vercel.app/api?username=fdhlvidiarta&show_icons=true&theme=transparent&include_all_commits=true" alt="stats" /> 
+    &nbsp;&nbsp;
+    <img src="https://github-meko-stats.vercel.app/api/top-langs?username=fdhlvidiarta&show_icons=true&theme=transparent&locale=en&layout=compact" alt="fdhlvidiarta" /> 
+  </span>
+</p>
+
+
