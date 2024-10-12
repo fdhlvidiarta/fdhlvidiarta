@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, PHP, and Kotlin**
 - 💬 Ask me about something (i'll reply if i'm not busy)
-- 🎵 I like listening music 
+- 🎵 I like listening music: <a href="https://open.spotify.com/playlist/5A5FKNkc8NSDgGQfZtn59V?si=2a971236e7974598">Playlist Spotify</a> 
 - 😄 I like about tech topic and still newbie about programming
 - ⚡ Fun fact: I ❤️ 😺 
 - 📫 How to reach me: <a href="fdhlvidiarta@gmail.com">FadhilV@gmail.com</a> <br><br>
